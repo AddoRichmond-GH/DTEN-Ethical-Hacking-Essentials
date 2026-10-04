@@ -1,0 +1,11 @@
+Nmap initial scan:
+nmap <TARGET_IP>
+
+Nmap service/version detection:
+nmap -sV -p 135,139,445,3000,3306 <TARGET_IP>
+
+WhatWeb:
+whatweb http://<TARGET_IP>:3000
+
+cURL headers:
+curl -I http://<TARGET_IP>:3000
