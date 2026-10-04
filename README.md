@@ -31,7 +31,7 @@ Conducted reconnaissance and service enumeration against a controlled laboratory
 * VirtualBox
 * OWASP Juice Shop
 
-[View Task 1 →](./Task-1-Reconnaissance/)
+[View Task 1 →](./Task-1-Reconnassaice-on-target/)
 
 ---
 
@@ -56,7 +56,7 @@ Performed security testing against the intentionally vulnerable **OWASP Juice Sh
 * OWASP Juice Shop
 * Web browser
 
-[View Task 2 →](./Task-2-Vulnerable-Web-App/)
+[View Task 2 →](./Task-2-Juice-Shop-Exploitation/)
 
 ---
 
